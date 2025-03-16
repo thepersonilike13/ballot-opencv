@@ -26,3 +26,6 @@ streamlit run app.py
 ```
 
 ## P.S. find the code in the tests folder,named [test4.py](https://github.com/thepersonilike13/ballot-opencv/blob/main/tests/test4.py)
+
+![hilighted(notworking)](https://github.com/thepersonilike13/ballot-opencv/blob/main/highlight_image.jpg)
+![debug](https://github.com/thepersonilike13/ballot-opencv/blob/main/debug_image.jpg)
